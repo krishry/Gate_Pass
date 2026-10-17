@@ -3,7 +3,7 @@
 A secure, role-based event management platform designed to simplify event registration, digital pass management, and entry verification.
 
 **Live Demo:** [GatePass Preview](gate-pass-88vd.vercel.app)  
-**Demo Video:** [Add Demo Video Link](https://drive.google.com/file/d/1hFUnvj3_hZe6omg6iFfpZlqUQzDPRTMk/view?usp=sharing))
+**Demo Video:** [Demo Video Link](https://drive.google.com/file/d/1hFUnvj3_hZe6omg6iFfpZlqUQzDPRTMk/view?usp=sharing)
 
 ---
 
@@ -274,8 +274,8 @@ GatePass is designed around the following security principles:
 
 ## 10. Team Members
 
-| Name | Role | Responsibilities |
-|---|---|---|
+| Name |
+|---|
 | [Pranjal Gupta] |
 | [Aryan Rohada] |
 | [Devendra Sahare] |
@@ -285,7 +285,7 @@ Replace the sample entries with the actual team members, roles, and contribution
 
 ## 11. Project Links
 
-- **Demo Video:** (https://drive.google.com/file/d/1hFUnvj3_hZe6omg6iFfpZlqUQzDPRTMk/view?usp=sharing)
+- **Demo Video:** [](https://drive.google.com/file/d/1hFUnvj3_hZe6omg6iFfpZlqUQzDPRTMk/view?usp=sharing)
 - **Source Code:** [](https://github.com/krishry/Gate_Pass.git)
 
 *The current preview URL is a Manus Preview link and may not be a permanent production deployment.*
