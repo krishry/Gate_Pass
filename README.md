@@ -285,8 +285,8 @@ Replace the sample entries with the actual team members, roles, and contribution
 
 ## 11. Project Links
 
-- **Demo Video:** [](https://drive.google.com/file/d/1hFUnvj3_hZe6omg6iFfpZlqUQzDPRTMk/view?usp=sharing)
-- **Source Code:** [](https://github.com/krishry/Gate_Pass.git)
+- **Demo Video:** [(https://drive.google.com/file/d/1hFUnvj3_hZe6omg6iFfpZlqUQzDPRTMk/view?usp=sharing)]
+- **Source Code:** [(https://github.com/krishry/Gate_Pass.git)]
 
 *The current preview URL is a Manus Preview link and may not be a permanent production deployment.*
 
