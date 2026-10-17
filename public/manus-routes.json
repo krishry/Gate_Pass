@@ -1,0 +1,11 @@
+{
+  "routes": [
+    { "path": "/", "title": "GatePass — Event Access Control" },
+    { "path": "/auth", "title": "GatePass — Secure sign in" },
+    { "path": "/app", "title": "GatePass Workspace" },
+    { "path": "/app/events", "title": "GatePass Events" },
+    { "path": "/app/scanner", "title": "GatePass Scanner" },
+    { "path": "/app/passes", "title": "GatePass Passes" },
+    { "path": "/app/settings", "title": "GatePass Settings" }
+  ]
+}
